@@ -1,0 +1,9 @@
+.text-title > a,
+.text-subtitle > a {
+  color: #696642;
+}
+
+.text-title > a:hover,
+.text-subtitle > a:hover {
+  color: #fff;
+}
